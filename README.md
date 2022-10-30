@@ -16,7 +16,7 @@ Deployed at : https://talkative-hub.herokuapp.com/
 Clone the project
 
 ```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
+  git clone https://github.com/vishesh13byte/Talkative.git
 ```
 
 Go to the project directory
