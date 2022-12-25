@@ -9,7 +9,7 @@ Server: Node JS, Express JS
 
 Database: Mongo DB
 
-Deployed at : https://talkative-hub.herokuapp.com/
+Deployed at : https://talkative-hub.onrender.com/
 
 ## Run Locally
 
